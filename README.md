@@ -24,11 +24,9 @@ Built an end-to-end sklearn Pipeline covering the full ML workflow:
 ![Pandas](https://img.shields.io/badge/Pandas-green)
 
 ## Project Structure
-titanic-survival-prediction/
-│
-├── Titanic-ML.ipynb     # Main notebook with full pipeline
-├── submission.csv       # Kaggle submission file
-└── README.md
+- `Titanic-ML.ipynb` — Main notebook with full pipeline
+- `submission.csv` — Kaggle submission file
+- `README.md` — Project documentation
 
 ## What I Learned
 - Building a full preprocessing + model Pipeline with `ColumnTransformer`
